@@ -1,0 +1,47 @@
+{
+  "name": "transferit-downloader",
+  "version": "1.0.0",
+  "description": "Bulk download manager for transfer.it links — tự động nhận diện, phân tích và tải hàng loạt file",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder build --win"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.7",
+    "megajs": "^1.3.0",
+    "p-queue": "^8.0.1"
+  },
+  "devDependencies": {
+    "electron": "^36.0.0",
+    "electron-builder": "^26.8.1"
+  },
+  "build": {
+    "appId": "com.transferit.downloader",
+    "productName": "TransferIT Downloader",
+    "win": {
+      "target": [
+        "nsis"
+      ]
+    },
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "src/**/*",
+      "renderer/**/*",
+      "assets/**/*",
+      "package.json"
+    ],
+    "extraMetadata": {
+      "main": "main.js"
+    },
+    "publish": null
+  },
+  "repository": "https://github.com/example/repo"
+}
