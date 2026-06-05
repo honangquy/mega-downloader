@@ -26,8 +26,8 @@
 
 
 <div align="center">
-  <img src="<img width="1592" height="1008" alt="image" src="https://github.com/user-attachments/assets/30217f3e-c36f-41c6-9d3e-58fb0e1b084f" />
-" alt="Main Interface" width="800"/>
+<img width="1590" height="1017" alt="image" src="https://github.com/user-attachments/assets/ed05cb9a-5d37-4a15-b606-670ca75b9ecb" />
+
   <p><em>Giao diện chính của ứng dụng - Quản lý link tải và thống kê bằng Chart.js</em></p>
 </div>
 
