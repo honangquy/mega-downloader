@@ -16,7 +16,7 @@
 ---
 
 <a id="vietnamese-version"></a>
-# 🇻🇳 Phiên bản Tiếng Việt
+# 🇻🇳 Tiếng Việt
 
 ## Introduction
 
@@ -24,9 +24,10 @@
 
 ##  Giao diện ứng dụng (Screenshots)
 
-*[TODO: Thay thế link hình ảnh dưới đây bằng ảnh thực tế của bạn sau khi upload lên repo]*
+
 <div align="center">
-  <img src="https://via.placeholder.com/800x450?text=App+Screenshot+1" alt="Main Interface" width="800"/>
+  <img src="<img width="1592" height="1008" alt="image" src="https://github.com/user-attachments/assets/30217f3e-c36f-41c6-9d3e-58fb0e1b084f" />
+" alt="Main Interface" width="800"/>
   <p><em>Giao diện chính của ứng dụng - Quản lý link tải và thống kê bằng Chart.js</em></p>
 </div>
 
