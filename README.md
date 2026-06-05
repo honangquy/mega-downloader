@@ -98,7 +98,7 @@ Tạo file `.env` nếu cần thiết để quản lý các biến cấu hình (
 
 ##  Screenshots
 
-*[TODO: Replace the image link below with your actual screenshot after uploading to the repo]*
+
 <div align="center">
   <img src="https://via.placeholder.com/800x450?text=App+Screenshot+1" alt="Main Interface" width="800"/>
   <p><em>Main Application Interface - Manage links and view Chart.js statistics</em></p>
